@@ -1,0 +1,67 @@
+[
+    {
+        "id": "2",
+        "fname": "Nikson",
+        "lname": "A",
+        "age": "19",
+        "gender": "male",
+        "ug": "B.Tech.,",
+        "pg": "M.Tech.,",
+        "college_ug": "The American College",
+        "college_pg": "NEW COLLEGE",
+        "states": "Tamil Nadu",
+        "cities": " Madurai "
+    },
+    {
+        "id": "4",
+        "fname": "Joyce",
+        "lname": "A",
+        "age": "18",
+        "gender": "female",
+        "ug": "B.Sc.,",
+        "pg": "MCA.,",
+        "college_ug": "Thiyagaraja College",
+        "college_pg": "AAAAD",
+        "states": "Tamil Nadu",
+        "cities": " Madurai "
+    },
+    {
+        "id": "5",
+        "fname": "VictorImmanuvel",
+        "lname": "A",
+        "age": "24",
+        "gender": "male",
+        "ug": "B.Sc.,",
+        "pg": "MCA.,",
+        "college_ug": "The American College",
+        "college_pg": "MKUniversity Madurai",
+        "states": "Tamil Nadu",
+        "cities": " Madurai "
+    },
+    {
+        "id": "6",
+        "fname": "Sample",
+        "lname": "sample",
+        "age": "12",
+        "gender": "female",
+        "ug": "B.Tech.,",
+        "pg": "MCA.,",
+        "college_ug": "asvdddv",
+        "college_pg": "avvaavd",
+        "states": "Bihar",
+        "cities": " Areraj "
+    },
+    {
+        "id": "8",
+        "fname": "Trial",
+        "lname": "tryit",
+        "age": "11",
+        "gender": "female",
+        "ug": "B.Sc.,",
+        "pg": "MCA.,",
+        "college_ug": "New College",
+        "college_pg": "Iceberg University",
+        "states": "Jammu & Kashmir",
+        "cities": " Srinagar "
+    }
+]
